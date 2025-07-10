@@ -1,6 +1,25 @@
-# HI, I´m Jhonier ALejandro Tombe Mosquera
-### actually computer and system Engeenering student 
 
-I'm looking to collaborate on indie´s videogames or as front-end developer
-📫 How to reach me:
-    for Email: jhonier0301@gmail.com
+# HI, I´m Jhonier Alejandro Tombe Mosquera
+
+Actually i´m a student of computing and system engineering.
+
+
+## 🚀 About Me
+Now I´m study for be a backend developer and a devops
+
+### I'm studying the next stack
+- python with fastAPI
+- Docker
+- SQL
+- AWS
+
+
+
+## 🛠 Skills
+- git
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonier-alejandro-tombe-mosquera-591726297/)
+
+
