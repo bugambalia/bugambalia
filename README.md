@@ -12,6 +12,7 @@ Now I´m study for be a backend developer and a devops
 - Docker
 - SQL
 - AWS
+- rust
 
 
 
