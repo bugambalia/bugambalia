@@ -75,12 +75,10 @@ Además de programar, disfruto investigar y tengo afinidad por el **desarrollo d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JhonierTombe&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonierTombe&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bugambalia&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bugambalia&theme=radical&hide_border=true" width="48%" />
 
 </div>
-
-> ⚠️ Reemplaza `JhonierTombe` por tu usuario real de GitHub para que estas tarjetas funcionen.
 
 <br>
 
